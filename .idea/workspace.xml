@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c25544-73f3-4d42-bad5-486c57337693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/ArrayStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/ArraysStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/CalendarCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/CalendarStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/DateCase/DateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/DateCase/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/DateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/DateDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/DateDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/IntToString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/IntegerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/IntegerDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/MathStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/Object/ObjectDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/Object/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/APIStudy/SystemStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ArgsStudy/ArgsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ArgsStudy/ArgsDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/AdvancedForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/CollectionCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/CollectionCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/HashCode/HashDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/HashCode/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/HashSetCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/HashSetCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/HashSetStudy/HashSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/LinkedHashSetStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListIteratorStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListStudy/ArrayListAndLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListStudy/LinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListStudy/ListDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListStudy/ListDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListStudy/ListDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListcCase2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/ListcCase2/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/Set/SetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/SetCase/SetCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase2/StudentDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase2/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase3/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase3/StudentDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetCase3/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/CollectionStudy/TreeSetStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ExceptionStudy/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ExceptionStudy/ExceptionDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ExceptionStudy/ExceptionDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ExceptionStudy/ExceptionDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/ExceptionStudy/ExceptionDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy/GenericStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy2/Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy2/GenericDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy2/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy3/Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy3/GenericDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy4/Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy4/GenericDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy4/GenericImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/GenericStudy5/GenericDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/Athlete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/BasketballA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/BasketballT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/English.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/TabletennisA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/TabletennisT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/InterfaceCase2/Trainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsCase/StudentDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsCase2/AdvancedDouDiZhu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsCase2/DouDiZhuDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/CollectionsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/HashMapCase/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/HashMapCase/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/HashMapCase2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/HashMapCase2/StudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/HashMapCase3/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/MapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/MapDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/MapDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/MapStudy/MapDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy2/Outer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy2/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy2/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy2/OuterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy3/Outer$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy3/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy3/OuterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy4/Inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy4/Outer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy4/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy4/OuterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/Jumpping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/JumppingDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/JumppingDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/JumppingDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/OuterInnerClassStudy5/JumppingOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractCase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractCase/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractCase/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractCase/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy2/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/abstractStudy2/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/com/exercise/array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/com/extendsStudy/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/com/extendsStudy/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/com/extendsStudy/extendsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceCase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceCase/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceCase/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceCase/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceCase/Inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy/Jumpping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy/JumppingDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy2/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy2/inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy2/interImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy3/Inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy3/Inter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy3/Inter3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy3/InterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy4/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy4/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy4/AnimalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/interfaceStudy4/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/modifierStudy/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/modifierStudy/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/modifierStudy/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/modifierStudy2/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/modifierStudy2/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicCase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicCase/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicCase/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicCase/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/AnimalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy2/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy3/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy3/AnimalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy3/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/polymorphicStudy3/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/fianlStudy/FinalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/fianlStudy/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/staticStudy/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE_code/stateStudy/staticStudy/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/ArrayStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/ArraysStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/CalendarCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/CalendarStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/DateCase/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/DateCase/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/DateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/DateDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/IntToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/IntegerDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/MathStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/Object/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/Object/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIStudy/SystemStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArgsStudy/ArgsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArgsStudy/ArgsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/AdvancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/CollectionCase/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/CollectionCase/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/HashCode/HashDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/HashCode/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/HashSetCase/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/HashSetCase/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/HashSetStudy/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/LinkedHashSetStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListCase/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListCase/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListIteratorStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListStudy/ArrayListAndLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListStudy/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListStudy/ListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListStudy/ListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListStudy/ListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListcCase2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/ListcCase2/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/Set/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/SetCase/SetCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase2/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetCase3/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionStudy/TreeSetStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionStudy/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionStudy/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionStudy/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionStudy/ExceptionDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionStudy/ExceptionDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy/GenericStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy2/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy2/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy3/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy3/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy4/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy4/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy4/GenericImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStudy5/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/BasketballA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/BasketballT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/English.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/TabletennisA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/TabletennisT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceCase2/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy2/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy2/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy3/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy3/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy4/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy4/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy4/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy5/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy5/JumppingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterInnerClassStudy5/JumppingOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractCase/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractCase/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractCase/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractCase/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy2/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractStudy2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercise/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extendsStudy/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extendsStudy/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extendsStudy/extendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceCase/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceCase/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceCase/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceCase/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceCase/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy/JumppingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy2/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy2/inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy2/interImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy3/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy3/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy3/Inter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy3/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy4/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy4/AnimalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceStudy4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierStudy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierStudy/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierStudy/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierStudy2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierStudy2/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicCase/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicCase/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicCase/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicCase/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/AnimalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy2/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy3/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphicStudy3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/fianlStudy/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/fianlStudy/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/staticStudy/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stateStudy/staticStudy/Student.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="95" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MapStudy/HashMapCase3/Demo.java" />
+        <option value="$PROJECT_DIR$/src/MapStudy/CollectionsDemo.java" />
+        <option value="$PROJECT_DIR$/src/MapStudy/CollectionsCase/Student.java" />
+        <option value="$PROJECT_DIR$/src/MapStudy/CollectionsCase/StudentDemo.java" />
+        <option value="$PROJECT_DIR$/src/MapStudy/CollectionsCase2/DouDiZhuDemo.java" />
+        <option value="$PROJECT_DIR$/src/MapStudy/CollectionsCase2/AdvancedDouDiZhu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="520" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSE_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSE_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSE_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSE_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSE_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSE_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MapStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AdvancedDouDiZhu">
+    <configuration name="AdvancedDouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapStudy.CollectionsCase2.AdvancedDouDiZhu" />
+      <module name="JavaSE_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapStudy.CollectionsCase2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapStudy.CollectionsDemo" />
+      <module name="JavaSE_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapStudy.HashMapCase3.Demo" />
+      <module name="JavaSE_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapStudy.HashMapCase3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DouDiZhuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapStudy.CollectionsCase2.DouDiZhuDemo" />
+      <module name="JavaSE_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapStudy.CollectionsCase2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapStudy.CollectionsCase.StudentDemo" />
+      <module name="JavaSE_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapStudy.CollectionsCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdvancedDouDiZhu" />
+        <item itemvalue="Application.DouDiZhuDemo" />
+        <item itemvalue="Application.StudentDemo" />
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c25544-73f3-4d42-bad5-486c57337693" name="Default Changelist" comment="" />
+      <created>1598061059994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598061059994</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update collections case and study files.">
+      <created>1598283776496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598283776496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="520" y="0" width="814" height="867" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3050398" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32833788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49867374" weight="0.3287858" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50132626" side_tool="true" visible="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32896653" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32891247" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update collections case and study files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update collections case and study files." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSE_code$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1598070097166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MapStudy.HashMapCase3.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/abstractStudy/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractCase/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/HashMapCase/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/HashMapCase/StudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/MapDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/MapDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/MapDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/CollectionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/CollectionsCase/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/CollectionsCase/StudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/HashMapCase3/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/CollectionsCase2/AdvancedDouDiZhu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapStudy/CollectionsCase2/DouDiZhuDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="82" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
